@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{D858895B-90EB-4810-95D0-28B4917916F9}|Default">
+  <MonoDevelop.Ide.ItemProperties.APIweb.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.165AF276-B2FE-4772-944B-BF3E83E1BB21" />
+  <MonoDevelop.Ide.ItemProperties.APIweb.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="APIweb/MainPage.xaml">
+    <Files>
+      <File FileName="APIweb/WebAPIService.cs" Line="3" Column="2" />
+      <File FileName="APIweb/MainPage.xaml.cs" Line="22" Column="10" />
+      <File FileName="APIweb/MainPage.xaml" Line="17" Column="1" />
+      <File FileName="APIweb/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="APIweb/Modelo/UsuarioModelo.cs" Line="24" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APIweb" expanded="True">
+            <Node name="APIweb" expanded="True">
+              <Node name="Modelo" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

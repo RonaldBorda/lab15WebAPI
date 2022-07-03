@@ -1,0 +1,15 @@
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/APIweb/APIweb/bin/Debug/netstandard2.0/APIweb.deps.json
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/APIweb/APIweb/bin/Debug/netstandard2.0/APIweb.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/APIweb/APIweb/bin/Debug/netstandard2.0/ref/APIweb.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/APIweb/APIweb/bin/Debug/netstandard2.0/APIweb.pdb
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/APIweb/APIweb/obj/Debug/netstandard2.0/APIweb.csproj.AssemblyReference.cache
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/APIweb/APIweb/obj/Debug/netstandard2.0/APIweb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/APIweb/APIweb/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/APIweb/APIweb/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/APIweb/APIweb/obj/Debug/netstandard2.0/APIweb.AssemblyInfoInputs.cache
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/APIweb/APIweb/obj/Debug/netstandard2.0/APIweb.AssemblyInfo.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/APIweb/APIweb/obj/Debug/netstandard2.0/APIweb.csproj.CoreCompileInputs.cache
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/APIweb/APIweb/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/APIweb/APIweb/obj/Debug/netstandard2.0/APIweb.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/APIweb/APIweb/obj/Debug/netstandard2.0/ref/APIweb.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/APIweb/APIweb/obj/Debug/netstandard2.0/APIweb.pdb
